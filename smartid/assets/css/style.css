@@ -1,0 +1,33 @@
+body.white{
+	background: #FAFAFA;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding: 5px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #e0e0e0;
+}
+
+.img-header{
+	max-width:300px;
+	margin-top: -4%;
+}
+.notifikasi{
+	width: 100%;
+	color: #FFFFFF;
+}
+.sukses{
+	background-color: #4CAF50;
+}
+.gagal{
+	background-color: #F44336;
+}
+/*.navbar-nav> li:active {
+    border-bottom: 2px solid #ad1f2d !important;
+	bottom: 0 !important;
+	left: 0 !important;
+}*/
